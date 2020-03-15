@@ -1,6 +1,9 @@
 h1  {
     color: rgb(0, 53, 0);
 }
+strong  {
+    color: cadetblue;
+}
 
 .body  {
   background: linear-gradient(left, grey);
