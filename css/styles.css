@@ -1,0 +1,10 @@
+h1  {
+    color: rgb(0, 53, 0);
+}
+
+.body  {
+  background: linear-gradient(left, grey);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
