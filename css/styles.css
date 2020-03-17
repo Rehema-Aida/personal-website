@@ -1,31 +1,23 @@
-h1  {
-    color: rgb(177, 94, 0);
-}
-strong  {
-    color: rgb(0, 49, 51);
-}
 img  {
     border-radius: 10%;
     width: 500px;
-}
-.body  {
-  display: flex;
-}
-body  {
-    background-image: grey;
 }
 .left  {
     flex-direction: column;
     margin: 25px;
     justify-content: center;
 }
+body  {
+    background: linear-gradient(rgb(1, 61, 63), rgb(141, 190, 190));
+
+}
 h1  {
     text-align: center;
-    color: cadetblue;
+    color: rgb(0, 53, 54);
 }
 h2  {
     text-align: center;
-    color: cadetblue;
+    color: rgb(0, 53, 54);
 }
 .right  {
     flex-direction: column;
